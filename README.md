@@ -34,4 +34,7 @@ These age groups were created by adding a conditional column in Power query edit
   (a) A ribbon chart showcasing number of Claims by Claim Status Rejected, Settled and Pending. 
   (b) A donut chart showcasing the count of Active/Inactive Policies. For this a conditional column was added under the add column status.
 "If Policy End Date is before or equal to 10-12-2024 then policy is Inactive else Active". 
-  (c) A table visual for testing out the drill through feature by placing Policy Type under the visualizations pane. 
+  (c) A table visual for testing out the drill through feature by placing Policy Type under the visualizations pane.
+
+  
+<img width="1294" height="725" alt="Report Snapshot" src="https://github.com/user-attachments/assets/b17174cb-8ea5-4fc2-a105-5f8edd321437" />
