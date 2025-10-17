@@ -4,6 +4,7 @@
 A brief description of what this project does and who it's for
 
 ### Dashboard Link : https://vipst-my.sharepoint.com/:u:/g/personal/namanchadha_819_vipsedu_in/EaWIlETgwg5MrWy5_FKC7p4B0v1XqQ6by1JpX1GWZl2JDg?e=PBMK0K
+(Download the file to view it)
 
 ## Problem Statement
 
